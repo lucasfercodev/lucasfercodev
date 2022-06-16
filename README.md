@@ -1,7 +1,6 @@
 - 👋 Olá, sou o @lucasfercodev
 - 👀 Tenho interesse em desenvolvimento Front-end
-- 🌱 Estou estudando ferramentas para Front-end e cursando A.D.S.
-- 💞️ Partcipando atualmente do Hiring Coders#3
+- 🌱 Estou estudando ferramentas para Front-end e cursando Sistema para Internet
 - 📫 Contato: lucasfercodev@gmail.com
 - 📚 LinkedIn: https://www.linkedin.com/in/lucasfercodev/
 
